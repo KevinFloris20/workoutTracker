@@ -7,6 +7,7 @@ This allows you to track your fitness and exercises
 ## Installation:
 
 Npm install and it will deployed on local host
+Heroku: https://pure-gorge-23322.herokuapp.com/
 
 ## Usage:
 
