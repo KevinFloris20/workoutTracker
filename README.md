@@ -6,7 +6,7 @@ This allows you to track your fitness and exercises
 
 ## Installation:
 
-Npm install and thats about it
+Npm install and it will deployed on local host
 
 ## Usage:
 
