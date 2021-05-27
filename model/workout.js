@@ -14,7 +14,7 @@ const workoutSchema = new Schema({
                 trim: true,
                 required: "Enter type of workout:"
             },
-            durration: {
+            duration: {
                 type: Number,
                 require: "How long was the exercise:"
             },
@@ -33,7 +33,7 @@ const workoutSchema = new Schema({
         }
     ],
     day: {
-        type: Date.apply,
+        type: Date,
         default: Date.now
     }
 });
